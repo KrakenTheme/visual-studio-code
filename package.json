@@ -1,0 +1,24 @@
+{
+    "name": "kraken",
+    "displayName": "Kraken",
+    "description": "Kraken Theme for Visual Studio Code",
+    "icon": "kraken.png",
+    "version": "0.0.1",
+    "publisher": "4ban",
+    "repository": "https://github.com/KrakenTheme/visual-studio-code",
+    "engines": {
+        "vscode": "^1.26.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Kraken",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Kraken-color-theme.json"
+            }
+        ]
+    }
+}
