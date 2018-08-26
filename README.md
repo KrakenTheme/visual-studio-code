@@ -12,5 +12,8 @@ Launch VS Code Quick Open (⌘+P), paste the following command, and press enter.
 Or install this theme from the extension panel (search for "Kraken").
 You can find this theme in the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=4ban.kraken).
 
+## Follow
+More schemes can be found here: [Kraken](https://github.com/KrakenTheme/kraken) and [Rougarou](https://github.com/RougarouTheme/rougarou)
+
 ## Credits
-Icon made by [Freepik](https://www.flaticon.com/authors/freepik) from [flaticon](www.flaticon.com) 
+Icon made by [Freepik](https://www.flaticon.com/authors/freepik) from [flaticon](www.flaticon.com)
